@@ -23,7 +23,5 @@ def day1():
     print(f"Part 1: {freq}")
 
 
-
-
 if __name__ == "__main__":
     day1()
